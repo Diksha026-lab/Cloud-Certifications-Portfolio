@@ -30,8 +30,7 @@ This repository contains verified certificates, project learnings, and documenta
 📄 Certificate:  
 `/Internship/Niyocon-Technologies-Internship.pdf`
 
-## 🎓 Internship Experience
-![Internship Certificate](https://img.shields.io/badge/Certificate-Niyocon_Technologies-blue)
+## [![Internship Certificate](https://img.shields.io/badge/Certificate-Niyocon_Technologies-blue)](https://github.com/Diksha026-lab/Cloud-Certifications-Portfolio/blob/main/Internship/Niyocon-Technologies-Internship.pdf)
 ---
 
 ## ☁️ Cloud Certifications (Progress)
