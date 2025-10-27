@@ -68,7 +68,7 @@ This repository is updated regularly to:
 👤 **Diksha Singh**  
 📍 Bhadohi, India  
 📧 dikshasingh737607@gmail.com  
-🔗 LinkedIn: linkedin.com/in/diksha-singh026  
+🔗 🔗 [LinkedIn Profile](https://www.linkedin.com/in/diksha-singh026)
 💻 GitHub: github.com/Diksha026-lab
 
 ---
