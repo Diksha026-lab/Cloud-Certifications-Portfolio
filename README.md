@@ -30,8 +30,8 @@ This repository contains verified certificates, project learnings, and documenta
 📄 Certificate:  
 `/Internship/Niyocon-Technologies-Internship.pdf`
 
-![Internship Badge](https://img.shields.io/badge/Internship-Niyocon_Technologies-blue)
-
+## 🎓 Internship Experience
+![Internship Certificate](https://img.shields.io/badge/Certificate-Niyocon_Technologies-blue)
 ---
 
 ## ☁️ Cloud Certifications (Progress)
@@ -68,8 +68,8 @@ This repository is updated regularly to:
 👤 **Diksha Singh**  
 📍 Bhadohi, India  
 📧 dikshasingh737607@gmail.com  
-🔗 🔗 [LinkedIn Profile](https://www.linkedin.com/in/diksha-singh026)
-💻 GitHub: github.com/Diksha026-lab
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/diksha-singh026)
+💻 [GitHub Profile](https://github.com/Diksha026-lab)
 
 ---
 
